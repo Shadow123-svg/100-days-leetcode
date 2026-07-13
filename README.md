@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shadow123-svg/100-days-leetcode/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Shadow123-svg/100-days-leetcode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
